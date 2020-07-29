@@ -1,0 +1,30 @@
+#header-nav {
+	background-color:black;
+	border-radius:0;
+	border:0;
+
+}
+
+}
+#menu b{
+	font-size: 50px;
+}
+.content div p{
+	text-align: center;
+	font-size: 20px;
+
+}
+*{ 
+box-sizing: border-box; }
+.content div{
+	border:1px solid black;
+	margin:30px;
+	padding: 10px;
+	background-color:lightblue; 
+}
+#myNavbar li{
+	text-align: center;
+	background-color: white;
+
+
+}
